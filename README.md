@@ -3,5 +3,5 @@ autoproxy
 
 ## Usage
 ## start with forever
-  npm install forever
-  forever start server.js
+  `npm install -g forever`
+  `forever start server.js`
