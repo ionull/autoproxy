@@ -1,8 +1,19 @@
 {
 	"name": "autoproxy"
 	, "version": "0.0.1"
+	, "author": "Tsung Wu <tsung.bz@gmail.com>"
 	, "description": "local server to serve static autoproxy.pac file for mac sandbox proxy issue."
 	, "dependencies": {
 		"node-static": "*"
 	}
+	, "repository": {
+		"type": "git"
+		, "url": "https://github.com/ioNull/autoproxy.git"
+	}
+	, "keywords": [
+		"autoproxy"
+		, "pac"
+		, "autoproxy.pac"
+		, "mac sandbox"
+	]
 }
