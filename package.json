@@ -1,0 +1,8 @@
+{
+	"name": "autoproxy"
+	, "version": "0.0.1"
+	, "description": "local server to serve static autoproxy.pac file for mac sandbox proxy issue."
+	, "dependencies": {
+		"node-static": "*"
+	}
+}
